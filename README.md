@@ -6,7 +6,7 @@ this is the simple ox game writen in python
 2. clone this project
 
 ```
-git clone https://github.com/Chewrs/py_ox-game.git)https://github.com/Chewrs/py_ox-game.git
+git clone https://github.com/Chewrs/py_ox-game.git
  ```
 
 ## Runing
