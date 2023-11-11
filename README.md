@@ -1,5 +1,5 @@
-# py_ox-game
-this is the simple ox game writen in python
+# tic tac toe
+this is the simple tic tac toe game writen in python
 ## installation
 1. Open the Terminal 
 
