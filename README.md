@@ -1,4 +1,4 @@
-# tic tac toe
+# tic tac toe Game
 this is the simple tic tac toe game writen in python
 ## installation
 1. Open the Terminal 
@@ -23,4 +23,4 @@ python3 ox.py
 ```
 
 ## Note
-> this game only work with Mac os !!!
+> this game only work with Mac os !!!!
